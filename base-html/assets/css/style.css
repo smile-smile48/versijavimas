@@ -1,0 +1,19 @@
+*,
+*::before,
+*::after{
+	box-sizing: border-box;
+	border: 1px solid red;
+}
+
+/*h2 {
+	color:red;
+}
+
+p{
+	background-color: green;
+}*/
+
+/*
+komentaro tekstas
+ctrl+/
+*/
