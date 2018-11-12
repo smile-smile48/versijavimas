@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<head>
+<title>Try out</title>
+</head>
+<body>
+
+<h1>Just playing</h1>
+<p>This is a playground.</p>
+
+<h2>I like nature</h2>
+
+<img src="https://cdn.stocksnap.io/img-thumbs/960w/VZBJUVPO25.jpg" alt="Nature">
+
+<h3>Gallery</h3>
+<img src="https://cdn.stocksnap.io/img-thumbs/960w/WPOWZBGDTU.jpg" alt="Nature">
+<img src="https://cdn.stocksnap.io/img-thumbs/960w/HIHHMHRPRI.jpg" alt="Nature">
+<img src="https://cdn.stocksnap.io/img-thumbs/960w/QYGOYPVLNC.jpg" alt="Nature">
+<img src="https://cdn.stocksnap.io/img-thumbs/960w/WLBC00ACIK.jpg" alt="Nature">
+<img src="https://cdn.stocksnap.io/img-thumbs/960w/VWLM7UWJUU.jpg" alt="Nature">
+<img src="https://cdn.stocksnap.io/img-thumbs/960w/26TCI436RB.jpg" alt="Nature">
+
+
+<h4>CSS stands for Cascading Style Sheets.</h4>
+
+ <h2>CSS can be added to HTML elements in 3 ways:</h2>
+<ul>
+  <li>Inline - by using the style attribute in HTML elements </li>
+  <li>Internal - by using a <style> element in the <head> section</li>
+  <li>External - by using an external CSS file</li>
+ </ul>
+ 
+<h5>JavaScript</h5>
+
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+
+<p id="demo"></p>
+
+<h6>HTML Layout Elements</h6>
+<h2>HTML5 offers new semantic elements that define the different parts of a web page:</h2>
+
+<h2>HTML5 Semantic Elements	</h2>
+<ul>
+ <li><header> - Defines a header for a document or a section</li>
+ <li><nav> - Defines a container for navigation links</li>
+ <li><section> - Defines a section in a document</li>
+ <li><article> - Defines an independent self-contained article</li>
+ <li><aside> - Defines content aside from the content (like a sidebar)</li>
+ <li><footer> - Defines a footer for a document or a section</li>
+ <li><details> - Defines additional details</li>
+ <li><summary> - Defines a heading for the <details> element</li>
+</ul>
+
+<h6>HTML Layout Techniques</h6>
+<h2>There are five different ways to create multicolumn layouts. Each way has its pros and cons:</h2>
+
+<ul>
+ <li>HTML tables (not recommended)</li>
+ <li>CSS float property</li>
+ <li>CSS flexbox</li>
+ <li>CSS framework</li>
+ <li>CSS grid</li>
+</ul>
+
+</body>
+</html>
